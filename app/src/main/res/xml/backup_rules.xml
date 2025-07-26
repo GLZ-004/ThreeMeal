@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude specific files or directories that should not be backed up.
+         For example, you might want to exclude some shared preferences that
+         contain GCM registration Ids, or authentication tokens. -->
+    <!--
+    <exclude domain="sharedpref" path="device.xml"/>
+    -->
+</full-backup-content> 
